@@ -1,5 +1,5 @@
 # preload-cloudflare-cache
-Preload trang theo file sitemap.xml và check status cache Cloudflare HIT
+Preload, tạo cache trang và ảnh theo status cache Cloudflare = HIT, chạy dựa theo sitemap.xml
 
 Set chạy ngầm liên tục 24/24 qua nohup, có thể tự chạy lại sau khi khởi động VPS
 ```shell
