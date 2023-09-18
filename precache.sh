@@ -2,7 +2,7 @@
 # Automatically hits all sitemaps on a site to pre-cache then at the edge.
 
 # CONFIG
-SITEMAP_URL=https://bibica.net/sitemap.xml
+SITEMAP_URL=https://bibica.net/sitemap-post-type-post.xml
 
 
 # Pull the index sitemap and get a list of all of the individual sitemaps.
