@@ -1,4 +1,7 @@
-!/bin/bash
+#!/bin/bash
+while true
+do
+
 # Automatically hits all sitemaps on a site to pre-cache then at the edge.
 
 # CONFIG
@@ -38,3 +41,6 @@ for sitemap in $sitemaps; do
 done
 
 echo "DONE"
+
+sleep 1
+done
